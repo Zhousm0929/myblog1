@@ -313,7 +313,7 @@ https://baijiahao.baidu.com/s?id=1664452420823771453&wfr=spider&for=pc
 海报2的设计思路（参考图片）
 [![Yi2PZn.png](https://s1.ax1x.com/2020/05/05/Yi2PZn.png)](https://imgchr.com/i/Yi2PZn)
 ai初稿对比图展示
-[![YignEt.md.png](https://s1.ax1x.com/2020/05/05/YignEt.md.png)](https://imgchr.com/i/YignEt)
+[![YiXK3Q.png](https://s1.ax1x.com/2020/05/05/YiXK3Q.png)](https://imgchr.com/i/YiXK3Q)
 ##### 成果展示
 
 ##### 代码分享
