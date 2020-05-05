@@ -282,9 +282,14 @@ function draw() {
 以下为我思考时的手稿
 [![Yi6We1.png](https://s1.ax1x.com/2020/05/05/Yi6We1.png)](https://imgchr.com/i/Yi6We1)
 以下为我查找到的资料
+* 杭州亚运城市行动推进大会昨日召开
 http://news.hexun.com/2020-04-18/201070072.html
+* 亚运会如何提升一座城
 http://zjtyol.zjol.com.cn/zjrd/202004/t20200420_11895119.shtml
+* 杭州：践行绿色智能节俭文明 亚运场馆建设有序推进
 https://baijiahao.baidu.com/s?id=1664452420823771453&wfr=spider&for=pc
+
+
 ##### 我的设计
 我选择的是亚运会的主题，
 想要从亚运会的四个理念“绿色、智能、文明、节俭”出发，
