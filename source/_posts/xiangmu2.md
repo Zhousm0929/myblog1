@@ -278,9 +278,9 @@ function draw() {
 ```
 
 #### 课程作业分享2——“杭州亚运会”（海报设计）
-##### 我的思考
+##### 我的思考与准备
 以下为我思考时的手稿
-[![YiBJkF.png](https://s1.ax1x.com/2020/05/05/YiBJkF.png)](https://imgchr.com/i/YiBJkF)
+[![Yi6We1.png](https://s1.ax1x.com/2020/05/05/Yi6We1.png)](https://imgchr.com/i/Yi6We1)
 以下为我查找到的资料
 http://news.hexun.com/2020-04-18/201070072.html
 http://zjtyol.zjol.com.cn/zjrd/202004/t20200420_11895119.shtml
@@ -303,7 +303,12 @@ https://baijiahao.baidu.com/s?id=1664452420823771453&wfr=spider&for=pc
 * “绿色”方面，我想到了习近平总书记的“绿水青山就是金山银山”当我们解决掉了污染源后，一些青山绿水自然人文景观便显露了出来。
 
 ##### 过程以及ai初稿展示
-
+海报1的设计思路（参考图片）
+[![Yi2VRU.png](https://s1.ax1x.com/2020/05/05/Yi2VRU.png)](https://imgchr.com/i/Yi2VRU)
+海报2的设计思路（参考图片）
+[![Yi2PZn.png](https://s1.ax1x.com/2020/05/05/Yi2PZn.png)](https://imgchr.com/i/Yi2PZn)
+ai初稿对比图展示
+[![YignEt.md.png](https://s1.ax1x.com/2020/05/05/YignEt.md.png)](https://imgchr.com/i/YignEt)
 ##### 成果展示
 
 ##### 代码分享
