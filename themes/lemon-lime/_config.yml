@@ -2,8 +2,8 @@
 nav:
   Home: /
   Archives: /archives
-  Tags: /tags #extra work needed for this to work
-  Catogories: /categories #extra work needed for this to work
+#  Tags: /tags #extra work needed for this to work
+#  Catogories: /categories #extra work needed for this to work
 # ==== site logo ====
 favicon: '/compass/imgs/favicon.ico' #the default favicon, feel free to change
 
@@ -19,26 +19,17 @@ copyright:
   liscense_link: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # ==== Footer Setting ====
-inception: 2017
-hexo_link: http://hexo.io
-email_address:
+inception: 2020年
+email_address: 2393999478@qq.com
 social_media:
   github:
     name: github
-    address: https://github.com/yourUserName # replace this link with yours
+    address: https://github.com/Zhousm0929 # replace this link with yours
     icon: fa-github
   weibo:
     name: weibo
-    address: # add your link here, like the way you do with github's address or just ignore it
+    address: https://weibo.com/u/2863300182?is_all=1#1588644341329
     icon: fa-weibo
-  facebook:
-    name: facebook
-    address: # add your link here, like the way you do with github's address or just ignore it
-    icon: fa-facebook
-  twitter:
-    name: twitter
-    address: # add your link here, like the way you do with github's address or just ignore it
-    icon: fa-twitter
 
 # ==== Additional Setting ====
 # View Count by busuanzi
