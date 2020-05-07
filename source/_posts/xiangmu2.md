@@ -7,14 +7,7 @@ tags: 项目
 ### 有关p5.js的学习
 #### 课程作业分享1——“少去人多的地方”（游戏设计）
 ##### 作业展示
-
-<p class="codepen" data-height="550" data-theme-id="light" data-default-tab="result" data-user="zhousm0929" data-slug-hash="QWjaGXX" style="height: 550px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="QWjaGXX">
-  <span>See the Pen <a href="https://codepen.io/zhousm0929/pen/QWjaGXX">
-  QWjaGXX</a> by Zhousm0929 (<a href="https://codepen.io/zhousm0929">@zhousm0929</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
+成果请看：http://zstu-interaction.art/?p=3307
 目的：人们想要避开病毒，但是病毒却是防不胜防的。戴口罩是一个办法，但是不同口罩保护的时效也是不同的。正如游戏所设置的那样，寻找病毒之间空间大的地方是关键，病毒越是密集，感染的风险越高，并且游戏界面越小，失败的可能性越大，所以我们要做的就是尽量避开人群去宽敞的空间。
 
 操作：鼠标控制紫色的点，避开红蓝病毒点，得到黄色方块口罩就可能会有一段时间的保护。
@@ -316,7 +309,7 @@ https://baijiahao.baidu.com/s?id=1664452420823771453&wfr=spider&for=pc
 ai初稿对比图展示
 [![YiXK3Q.png](https://s1.ax1x.com/2020/05/05/YiXK3Q.png)](https://imgchr.com/i/YiXK3Q)
 ##### 成果展示
-
+成果请看： http://zstu-interaction.art/?p=3525
 ##### 代码分享
 ```javascript
 let img1
@@ -742,7 +735,8 @@ function draw() {
 
 ### 课程感悟
 ##### 关于p5.js的学习
-在这次p5.js的学习中，我比较倾向于做那种简约的几何图形变化，在游戏与开头的海报中都有体现出，但是感觉并没有想象中酷炫的样子，而且可能因为太抽象，也会有一些问题。于是我在这次大作业中依旧是选取简单几何感的风格，但是并不是完全抽象，通过观察图片来提取了形象，也好好想了它的交互形式，想做出那种合理又为原来静态海报添加美感的动态。
+感想：在这次p5.js的学习中，我比较倾向于做那种简约的几何图形变化，在游戏与开头的海报中都有体现出，但是感觉并没有想象中酷炫的样子，而且可能因为太抽象，也会有一些问题。于是我在这次大作业中依旧是选取简单几何感的风格，但是并不是完全抽象，通过观察图片来提取了形象，也好好想了它的交互形式，想做出那种合理又为原来静态海报添加美感的动态。
+建议：更偏向于小组合作，可以更深入进行。
 ##### 关于个人网站的学习
 我觉得建立个人网站还挺快乐的，尤其是我在写韩国游记的时候觉得真的很治愈，可以把自己喜欢的分享给大家哈哈哈哈哈😊
 
